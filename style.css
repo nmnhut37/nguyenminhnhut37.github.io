@@ -59,6 +59,7 @@ body {
 .contact-icon {
     width: 20px;
     text-align: center;
+    font-size: 1.1em;
 }
 
 .content {
@@ -163,9 +164,9 @@ body {
 }
 
 .info-label {
-    font-weight: bold;
     color: #2c3e50;
-    min-width: 60px;
+    min-width: 20px;
+    font-size: 1.1em;
 }
 
 .cert-item {
@@ -246,17 +247,13 @@ body {
     .content {
         grid-template-columns: 1fr;
     }
-    
     .header h1 {
         font-size: 2.2em;
     }
-    
     .contact-info {
         grid-template-columns: 1fr;
     }
-
     .container {
         margin: 10px;
     }
 }
-
