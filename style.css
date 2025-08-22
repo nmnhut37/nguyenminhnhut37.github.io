@@ -233,7 +233,7 @@ body {
 }
 
 .website-link {
-    color: #3498db;
+    color: white;
     text-decoration: none;
     font-weight: 500;
 }
@@ -259,3 +259,4 @@ body {
         margin: 10px;
     }
 }
+
